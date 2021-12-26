@@ -1,0 +1,23 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+/* Variable */
+:root {
+  --p-soft-blue: hsl(215, 51%, 70%);
+  --p-cyan: hsl(178, 100%, 50%);
+  --n-drk-blue-main-bg: hsl(217, 54%, 11%);
+  --n-drk-blue-card-bg: hsl(216, 50%, 16%);
+  --n-drk-blue-line: hsl(215, 32%, 27%);
+  --white: hsl(0, 0%, 100%);
+}
+
+body {
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 18px;
+  background-color: var(--n-drk-blue-card-bg);
+}
