@@ -25,7 +25,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<div> 
+   <img src = "https://github.com/SLuo490/NFT-Preview-Card-Component/blob/master/screenshot/Screen%20Shot%202021-12-27%20at%204.56.28%20PM.png" width = "250" height = "400">
+  <img src = "https://github.com/SLuo490/NFT-Preview-Card-Component/blob/master/screenshot/Screen%20Shot%202021-12-27%20at%204.56.19%20PM.png" width = "250" height = "400">
+</div>
 
 ### Links
 
